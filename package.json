@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是简介",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixinyu812/ibook.git"
+  },
+  "keywords": [],
+  "author": "lixinyu812",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lixinyu812/ibook/issues"
+  },
+  "homepage": "https://github.com/lixinyu812/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
